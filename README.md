@@ -1,2 +1,2 @@
 # C-shrap-projects
-projects in c#
+my projects using c# language
